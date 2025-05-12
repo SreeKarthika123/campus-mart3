@@ -1,0 +1,2 @@
+- Created an online marketplace for students to buy and sell items within the college community.
+- Promoted affordable transactions, making essential items accessible through budget-friendly exchanges
